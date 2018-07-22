@@ -120,6 +120,7 @@ class MainActivity : AppCompatActivity() {
             return 270
         }
         return 0
+
     }
 
     // 정방향으로 회전
